@@ -1,5 +1,6 @@
 ﻿function Start () {
-
+	// Consider:
+	// Screen.orientation = ScreenOrientation.Landscape;
 }
 
 function Update () {
