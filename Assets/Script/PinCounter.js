@@ -9,3 +9,7 @@ function OnTriggerExit (collision : Collider) {
 static function getCounter() {
 	return counter;
 }
+
+static function resetCounter() {
+	counter = 0;
+}
